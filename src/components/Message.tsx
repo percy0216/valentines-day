@@ -12,7 +12,6 @@ export default function Message({ onNext, onBack }: MessageProps) {
       {/* HEADER */}
       <div className="border-b-2 border-[#590d22] pb-1 mb-6 flex justify-between text-[8px] sm:text-[10px] tracking-widest uppercase font-bold opacity-80 mt-2">
         <span>Edición Especial</span>
-        <span>Airek_Design</span>
         <span>Febrero 2026</span>
       </div>
 

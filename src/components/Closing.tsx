@@ -59,9 +59,7 @@ export default function Closing({ onRestart }: ClosingProps) {
             <h1 className="font-newspaper text-4xl sm:text-5xl text-[#d00000] mb-2 drop-shadow-sm leading-tight">
               ¡Confirmado!
             </h1>
-            <p className="font-handwriting text-3xl sm:text-4xl text-[#d00000] mt-1">
-              Eres mi San Valentín.
-            </p>
+            
           </motion.div>
 
           {/* GIF OSITOS */}

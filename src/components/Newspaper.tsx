@@ -55,12 +55,9 @@ export default function Newspaper({ onNext, onBack }: NewspaperProps) {
         <div className="z-10 mt-4">
            {/* 'Will you be my' en arco suave (simulado con transform) */}
            <p className="font-serif italic text-xl text-[#a4161a] mb-[-15px] relative z-20">
-             Will you be my
+              Seras mi ... ?
            </p>
-           {/* 'Valentine?' Gigante y cursiva */}
-           <h2 className="font-handwriting text-7xl sm:text-8xl text-[#d00000] relative z-10 transform -rotate-3 leading-none drop-shadow-sm">
-             Valentine?
-           </h2>
+           
         </div>
       </div>
 
@@ -102,7 +99,7 @@ export default function Newspaper({ onNext, onBack }: NewspaperProps) {
           <div className="border-2 border-[#d00000] p-1 bg-white shadow-sm mb-2 rotate-1">
              <div className="aspect-[3/4] overflow-hidden relative bg-gray-100">
                <img 
-                 src="https://images.unsplash.com/photo-1518568814500-bf0f8d125f46?q=80&w=300" 
+                 src="WhatsApp Image 2026-02-03 at 19.45.35.jpeg" 
                  alt="Pareja" 
                  className="w-full h-full object-cover opacity-90 hover:opacity-100 transition-opacity" 
                />
